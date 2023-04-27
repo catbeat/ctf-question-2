@@ -1,0 +1,3 @@
+c is ciphertext
+n = p*q
+dp = d % (p-1)
